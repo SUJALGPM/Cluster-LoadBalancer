@@ -1,0 +1,20 @@
+{
+  "name": "cluster_concept_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Cluster.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "loadtest": "^5.2.0",
+    "pm2": "^5.3.1"
+  }
+}
